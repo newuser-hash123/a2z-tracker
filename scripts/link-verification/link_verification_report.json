@@ -1,0 +1,23 @@
+{
+  "total_problems": 453,
+  "verified_links": 453,
+  "unresolved_links": 0,
+  "platforms": {
+    "LeetCode": 292,
+    "GeeksforGeeks": 128,
+    "TakeUForward": 33,
+    "Other": 0
+  },
+  "difficulty_breakdown": {
+    "Easy": 114,
+    "Medium": 296,
+    "Hard": 43
+  },
+  "tier_breakdown": {
+    "basic": 68,
+    "core": 277,
+    "pro": 108
+  },
+  "duplicate_ids": [],
+  "duplicate_titles": []
+}
